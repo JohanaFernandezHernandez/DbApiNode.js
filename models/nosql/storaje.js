@@ -6,7 +6,7 @@ const StorajeScheme = new mongoose.Schema(
             type:String
         },
         filename:{
-            type:Number
+            type:String
         }
     },
     {
